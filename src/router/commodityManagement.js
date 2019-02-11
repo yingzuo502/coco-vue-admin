@@ -1,7 +1,7 @@
 
 const routes =[
 
-      //  商品管理-商品列表
+      //  商品管理-商品列表--
       {
           path: '/producte_list',
           component: resolve => require(['../components/page/Commodity management/Producte list/Producte_list.vue'], resolve)
