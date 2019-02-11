@@ -1,7 +1,7 @@
 
 const routes =[
 
-      //类目频道-后台类目
+      //类目频道-后台类目--
       {
         path: '/backstageCategory',
         component: resolve => require(['../components/page/Catalogue channel/Backstage category/BackstageCategory.vue'], resolve)
